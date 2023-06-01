@@ -1,0 +1,140 @@
+body {
+  margin: 0 ;
+  padding: 0;
+  font-family: 'Carlito', sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  color: #444444;
+}
+
+h1 {
+  width: 255px;
+  font-family: 'Pragati Narrow', sans-serif;
+  text-align: center;
+  font-weight: normal;
+  font-size: 75px;
+  line-height: 64px;
+  margin: 30px 0;
+}
+
+h2 {
+  font-family: 'Carlito', sans-serif;
+  border-bottom: 2px solid #cccccc;
+  padding-bottom: 12px;
+}
+
+.container {
+  width: 100%;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.site-header {
+  min-width: 550px;
+  height: 186px;
+  margin-bottom: 70px;
+  padding-top: 30px;
+  background: #837360 no-repeat center url("img/bg1.jpg");
+  background-size: cover;
+  color: #ffffff;
+}
+
+.site-header p {
+  width: 450px;
+  margin: 0 0 26px;
+  text-align: left;
+  font-size: 25px;
+  line-height: 24px; 
+}
+
+.site-header img {
+  display: block;
+  margin: 0 auto;
+}
+
+.features {
+  width: 510px;
+  margin: 0 auto 30px;
+  padding: 0 20px;
+}
+
+.features p {
+  display: inline-block;
+  vertical-align: top;
+  width: 30%;
+  margin: 0 5px;
+  background-repeat: no-repeat;
+  background-position: center top;
+  text-align: center;
+}
+
+
+.чб-данки{
+  font-family: 'Carlito', sans-serif;
+  padding-top:10px;
+  background-image:url("img/f1.jpeg");
+}
+
+.dior{
+  font-family: 'Carlito', sans-serif;
+  padding-top:10px;
+  background-image:url("img/f3.jpg");
+}
+
+.new-balance{
+  font-family: 'Carlito', sans-serif;
+  padding-top:10px;
+  background-image:url("img/f5.jpeg");
+}
+.advantages {
+  font-family: 'Carlito', sans-serif;
+  width: 510px;
+  margin: 0 auto 40px;
+  padding: 0 20px;
+}
+
+.advantages-list {
+  font-family: 'Carlito', sans-serif;
+  padding: 0;
+  list-style: none;  
+}
+
+.advantages-item {
+  font-family: 'Carlito', sans-serif;
+  margin-bottom: 15px;
+  padding-left: 20px;
+  border-left: 20px solid #e2e2e2;
+  color: #999999;
+}
+
+.standard {
+  font-family: 'Carlito', sans-serif;
+  border-color: #616e70;
+  color: #6a6a6a;
+}
+
+.vip {
+  font-family: 'Carlito', sans-serif;
+  border-color: #75809d;
+  color: #000000;
+}
+
+.site-footer {
+  font-family: 'Carlito', sans-serif;
+  min-width: 550px;
+  height: 200px;
+  background-color: #3e4d63;
+  color: #ffffff;
+}
+
+.site-footer .container {
+  text-align: center;
+}
+
+.site-footer p {
+  display: inline-block;
+  vertical-align: middle;
+  padding: 0 20px;
+}
+
+
